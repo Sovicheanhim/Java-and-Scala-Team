@@ -3,10 +3,10 @@ public class Task_3_TicketNumber {
 
     public static void main(String[] args) {
         int ticketNumber,numberOfDigits = 0,removedLastDigit,ticketNumberAfterRemoved,remainderTicketNumber,temp;
-        Scanner aa = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
 
         System.out.println("Enter the ticket number : Six-Digits Only :)");
-        ticketNumber = aa.nextInt();
+        ticketNumber = input.nextInt();
         temp = ticketNumber;
         while (ticketNumber!=0){
             ticketNumber/=10;
