@@ -2,13 +2,13 @@ import java.util.*;
 public class Task_5_FinalPrize {
     public static void main(String[] args) {
         double productPrize, commissionRate, discountRate;
-        Scanner aa = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         System.out.println("Enter the product prize :");
-        productPrize = aa.nextDouble();
+        productPrize = input.nextDouble();
         System.out.println("Enter the commission rate in percentage:");
-        commissionRate = aa.nextDouble();
+        commissionRate = input.nextDouble();
         System.out.println("Enter the discount rate in percentage ");
-        discountRate = aa.nextDouble();
+        discountRate = input.nextDouble();
 
         System.out.println("The final prize is "+finalPrize(productPrize,commissionRate,discountRate));
     }
