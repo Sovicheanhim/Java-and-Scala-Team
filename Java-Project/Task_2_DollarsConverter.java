@@ -3,9 +3,9 @@ public class Task_2_DollarsConverter {
     public static void main(String[] args) {
         double dollarAmount, rielAmount;
         int num2000,num1000,num500,num100;
-        Scanner aa = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         System.out.println("Enter the dollars amount :");
-        dollarAmount = aa.nextDouble();
+        dollarAmount = input.nextDouble();
         rielAmount = dollarAmount * 4100;
 
         num2000 = (int)(rielAmount/2000);
