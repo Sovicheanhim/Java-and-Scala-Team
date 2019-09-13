@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java/Java.iml" filepath="$PROJECT_DIR$/Java/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nhim Sovichea/Java/Java.iml" filepath="$PROJECT_DIR$/Nhim Sovichea/Java/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-and-Scala-Team.iml" filepath="$PROJECT_DIR$/.idea/Java-and-Scala-Team.iml" />
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/Scala/Scala.iml" filepath="$PROJECT_DIR$/Scala/Scala.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/Kotlin/Kotlin.iml" filepath="$PROJECT_DIR$/Kotlin/Kotlin.iml" />
->>>>>>> add0f5370fc12f6f0b60699a2bca0aa6a683fb92
+      <module fileurl="file://$PROJECT_DIR$/Nhim Sovichea/Scala/Scala.iml" filepath="$PROJECT_DIR$/Nhim Sovichea/Scala/Scala.iml" />
     </modules>
   </component>
 </project>
