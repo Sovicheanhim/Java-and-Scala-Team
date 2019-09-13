@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a7f161a-0783-4901-bddc-c840cf585be1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Iv Layhort/Java_Layhort/src/Task_2/Exercise_1_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iv Layhort/Java_Layhort/src/Task_2/Exercise_2_FinalPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iv Layhort/Java_Layhort/src/Task_3/Exercise_1_SwimmingPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iv Layhort/Scala-Layhort/src/Task_1/Exercise_1_TotalFees.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iv Layhort/Scala-Layhort/src/Task_1/Exercise_2_DollarsConverter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iv Layhort/Scala-Layhort/src/Task_1/Exercise_3_TicketNumber.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iv Layhort/Scala-Layhort/src/Task_2/Exercise_1_Numbers.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iv Layhort/Scala-Layhort/src/Task_2/Exercise_2_FinalPrice.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iv Layhort/Java_Layhort/src/Task1/Exercise_1_TotalFees.java" beforeDir="false" afterPath="$PROJECT_DIR$/Iv Layhort/Java_Layhort/src/Task_1/Exercise_1_TotalFees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iv Layhort/Java_Layhort/src/Task1/Exercise_2_DollarsConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Iv Layhort/Java_Layhort/src/Task_1/Exercise_2_DollarsConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iv Layhort/Java_Layhort/src/Task1/Exercise_3_TicketNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Iv Layhort/Java_Layhort/src/Task_1/Exercise_3_TicketNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iv Layhort/Scala_Layhort/Scala_Layhort.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Iv Layhort/Scala-Layhort/Scala-Layhort.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
