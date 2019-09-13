@@ -1,4 +1,4 @@
-package Task1;
+package Task_1;
 import java.util.*;
 public class Exercise_3_TicketNumber {
 
