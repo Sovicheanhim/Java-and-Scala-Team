@@ -1,0 +1,1212 @@
+INFO  time: initialize in 2.06s
+WARN  no build tool detected in workspace 'D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex1_fee.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex1_fee.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex1_fee.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task3/ex1_swimming.scala in Array[<error>]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task3/ex1_swimming.scala, 38, 38, 53)
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task3/ex1_swimming.scala in Array[<error>]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task3/ex1_swimming.scala, 38, 38, 46)
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task3/ex1_swimming.scala in Array[<error>]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task3/ex1_swimming.scala, 38, 38, 47)
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task3/ex1_swimming.scala in Array[<error>]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task3/ex1_swimming.scala, 38, 38, 48)
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task3/ex1_swimming.scala in Array[<error>]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task3/ex1_swimming.scala, 38, 38, 49)
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task3/ex1_swimming.scala in Array[String]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task3/ex1_swimming.scala, 38, 38, 51)
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task3/ex1_swimming.scala in Array[String]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task3/ex1_swimming.scala, 38, 38, 51)
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task3/ex1_swimming.scala in Array[String]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task3/ex1_swimming.scala, 38, 38, 51)
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+Sep 14, 2019 5:59:56 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Sep 14, 2019 5:59:57 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Sep 14, 2019 5:59:57 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Sep 14, 2019 5:59:57 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+Sep 14, 2019 6:45:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 822
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+Sep 14, 2019 7:04:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1162
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex1_fee.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task5/ex1_tag.scala in Array[<error>]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task5/ex1_tag.scala, 33, 33, 48)
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task5/ex1_tag.scala in Array[<error>]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task5/ex1_tag.scala, 33, 33, 41)
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task5/ex1_tag.scala in Array[<error>]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task5/ex1_tag.scala, 33, 33, 42)
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task5/ex1_tag.scala in Array[<error>]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task5/ex1_tag.scala, 33, 33, 43)
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task5/ex1_tag.scala in Array[<error>]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task5/ex1_tag.scala, 33, 33, 44)
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task5/ex1_tag.scala in Array[String]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task5/ex1_tag.scala, 33, 33, 46)
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task5/ex1_tag.scala in Array[String]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task5/ex1_tag.scala, 33, 33, 46)
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task5/ex1_tag.scala in Array[String]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task5/ex1_tag.scala, 33, 33, 46)
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task5/ex1_tag.scala in Array[String]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task5/ex1_tag.scala, 390, 390, 403)
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+Sep 14, 2019 7:38:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2189
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task5/ex1_tag.scala in () => <error>RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task5/ex1_tag.scala, 567, 579, 740)
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+Sep 14, 2019 7:53:55 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Sep 14, 2019 7:53:56 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Sep 14, 2019 7:53:56 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+Sep 14, 2019 8:17:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2918
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+Sep 14, 2019 8:22:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2977
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+Sep 14, 2019 8:23:32 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+Sep 14, 2019 8:27:12 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Sep 14, 2019 8:27:12 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:137)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:155)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.HoverProvider.typedHoverTreeAt(HoverProvider.scala:230)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:24)
+
+Sep 14, 2019 8:27:13 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Sep 14, 2019 8:27:13 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:137)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:155)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.HoverProvider.typedHoverTreeAt(HoverProvider.scala:230)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:24)
+
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+Sep 14, 2019 8:31:15 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+Sep 14, 2019 8:31:16 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Sep 14, 2019 8:31:16 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Sep 14, 2019 8:31:16 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Sep 14, 2019 8:31:17 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Sep 14, 2019 8:31:17 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+Sep 14, 2019 8:40:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3701
+Sep 14, 2019 8:40:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3703
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+Sep 14, 2019 9:00:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4006
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build tool detected in workspace 'D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+Sep 14, 2019 9:47:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5080
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+Sep 14, 2019 9:59:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5329
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build tool detected in workspace 'D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build tool detected in workspace 'D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build tool detected in workspace 'D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+Sep 14, 2019 10:25:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6005
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+Sep 14, 2019 10:27:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Sep 14, 2019 10:28:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
