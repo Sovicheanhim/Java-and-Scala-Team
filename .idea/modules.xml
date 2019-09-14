@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Nhim Sovichea/Java/Java.iml" filepath="$PROJECT_DIR$/Nhim Sovichea/Java/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-and-Scala-Team.iml" filepath="$PROJECT_DIR$/.idea/Java-and-Scala-Team.iml" />
       <module fileurl="file://$PROJECT_DIR$/Iv Layhort/Java_Layhort/Java_Layhort.iml" filepath="$PROJECT_DIR$/Iv Layhort/Java_Layhort/Java_Layhort.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Nhim Sovichea/Scala/Scala.iml" filepath="$PROJECT_DIR$/Nhim Sovichea/Scala/Scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Meas Soknoy/Java/Java_Soknoy.iml" filepath="$PROJECT_DIR$/Meas Soknoy/Java/Java_Soknoy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Iv Layhort/Scala-Layhort/Scala-Layhort.iml" filepath="$PROJECT_DIR$/Iv Layhort/Scala-Layhort/Scala-Layhort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Meas Soknoy/Scala/Scala_Soknoy.iml" filepath="$PROJECT_DIR$/Meas Soknoy/Scala/Scala_Soknoy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Meas Soknoy/Java/soknoyScala.iml" filepath="$PROJECT_DIR$/Meas Soknoy/Java/soknoyScala.iml" />
     </modules>
   </component>
 </project>
