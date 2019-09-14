@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a7f161a-0783-4901-bddc-c840cf585be1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/layhort.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iv Layhort/Scala-Layhort/src/Task_4/Exercise_1_ComputeNet1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iv Layhort/Scala-Layhort/src/Task_4/Exercise_1_ComputeNet2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iv Layhort/Java_Layhort/src/Task_4/Exercise_2_TagContentExtractor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java-and-Scala-Team.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java-and-Scala-Team.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +56,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Exercise_2_TagContentExtractor">
+    <configuration name="Exercise_1_ComputeNet2 (1)" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Task_4.Exercise_1_ComputeNet2" />
+      <module name="Java-and-Scala-Team" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exercise_1_ComputeNet2" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Task_4.Exercise_1_ComputeNet2" />
       <module name="Scala-Layhort" />
@@ -69,8 +83,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercise_1_TotalFees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_1.Exercise_1_TotalFees" />
+      <module name="Java_Layhort" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise_2_TagContentExtractor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_4.Exercise_2_TagContentExtractor" />
+      <module name="Java_Layhort" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise_2_TagContentExtractor" />
+        <item itemvalue="Application.Exercise_1_TotalFees" />
         <item itemvalue="Application.Exercise_1_ComputeNet2" />
       </list>
     </recent_temporary>

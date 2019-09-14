@@ -24,8 +24,8 @@ public class Exercise_1_ComputeNet2 {
 
         netPay = grossPay - witholdingTax;
 
-        System.out.println("The gross pay is "+grossPay);
-        System.out.println("The witholding tax is "+witholdingTax);
-        System.out.println("The net pay is "+netPay);
+        System.out.println("The gross pay is "+grossPay%.2f);
+        System.out.println("The witholding tax is "+witholdingTax%.2f);
+        System.out.println("The net pay is "+netPay%.2f);
     }
 }
