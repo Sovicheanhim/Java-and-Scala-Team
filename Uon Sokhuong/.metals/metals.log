@@ -1210,3 +1210,609 @@ WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Sc
 WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
 WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
 WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task5\ex1_tag.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task4\ex1_computeNet.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task4\ex2_computeNet2.scala
+INFO  shutting down Metals
+INFO  time: initialize in 1.72s
+WARN  no build tool detected in workspace 'D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task4\ex2_computeNet2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task3\ex1_swimming.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+Sep 15, 2019 10:53:47 AM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Sep 15, 2019 10:53:47 AM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Sep 15, 2019 10:53:47 AM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build tool detected in workspace 'D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex3_number.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task4\ex1_computeNet.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task1/ex2.scala in Array[<error>]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task1/ex2.scala, 37, 37, 52)
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task1/ex2.scala in Array[<error>]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task1/ex2.scala, 37, 37, 45)
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task1/ex2.scala in Array[<error>]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task1/ex2.scala, 37, 37, 46)
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task1/ex2.scala in Array[<error>]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task1/ex2.scala, 37, 37, 47)
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task1/ex2.scala in Array[<error>]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task1/ex2.scala, 37, 37, 48)
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task1/ex2.scala in Array[<error>]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task1/ex2.scala, 37, 37, 49)
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task1/ex2.scala in Array[String]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task1/ex2.scala, 37, 37, 50)
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task1/ex2.scala in Array[String]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task1/ex2.scala, 37, 37, 50)
+something's wrong: no file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task1/ex2.scala in Array[String]RangePosition(file:///d%3A/VS_Code/SCALA_TEAM/Java-and-Scala-Team/Uon%20Sokhuong/Scala/task1/ex2.scala, 37, 37, 50)
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+Sep 15, 2019 11:43:15 AM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Sep 15, 2019 11:43:15 AM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Sep 15, 2019 11:43:16 AM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Sep 15, 2019 11:43:16 AM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+Sep 15, 2019 11:45:45 AM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Sep 15, 2019 11:45:46 AM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Sep 15, 2019 11:45:46 AM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Sep 15, 2019 11:45:46 AM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Sep 15, 2019 11:45:47 AM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Sep 15, 2019 11:45:47 AM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1028)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:402)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+Sep 15, 2019 12:55:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1828
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+Sep 15, 2019 12:59:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2080
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+INFO  shutting down Metals
+INFO  time: initialize in 1.6s
+WARN  no build tool detected in workspace 'D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+Sep 15, 2019 9:14:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Sep 15, 2019 9:16:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Sep 15, 2019 9:28:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+INFO  shutting down Metals
+INFO  time: initialize in 0.34s
+WARN  no build tool detected in workspace 'D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+INFO  no build target: using presentation compiler with only scala-library
+INFO  shutting down Metals
+INFO  time: initialize in 0.34s
+WARN  no build tool detected in workspace 'D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+INFO  no build target: using presentation compiler with only scala-library
+Sep 15, 2019 9:38:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Sep 15, 2019 9:43:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Sep 15, 2019 9:43:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Sep 15, 2019 9:43:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Sep 15, 2019 9:46:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+INFO  shutting down Metals
+INFO  time: initialize in 0.73s
+WARN  no build tool detected in workspace 'D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\VS_Code\SCALA_TEAM\Java-and-Scala-Team\Uon Sokhuong\Scala\task1\ex2.scala
+INFO  no build target: using presentation compiler with only scala-library
+Sep 15, 2019 9:49:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Sep 15, 2019 9:55:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Sep 15, 2019 9:55:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
