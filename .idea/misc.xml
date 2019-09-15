@@ -4,6 +4,10 @@
     <option name="languageLevel" value="ES6" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+<<<<<<< HEAD
+    <output url="file://$PROJECT_DIR$/Iv Layhort/Scala-Layhort" />
+=======
     <output url="file://out" />
+>>>>>>> 5cc734aa413ee7dd1c4381f064db99e56ff75b2f
   </component>
 </project>

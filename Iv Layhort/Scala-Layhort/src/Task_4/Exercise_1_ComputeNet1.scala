@@ -15,8 +15,8 @@ object Exercise_1_ComputeNet1 {
 
     val netPay = grossPay - witholdingTax
 
-    println(s"The gross pay is : $grossPay")
-    println(s"The witholding tax is : $witholdingTax")
-    println(s"The net pay is : $netPay")
+    println(s"The gross pay is : ${grossPay%.2f}")
+    println(s"The witholding tax is : ${witholdingTax%.2f}")
+    println(s"The net pay is : ${netPay%.2f}")
   }
 }

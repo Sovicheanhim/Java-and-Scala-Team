@@ -12,7 +12,7 @@ object credit_hour_student{
                     return if((input=="y")||(input=="yes")) 65 else(if((input=="n")||(input=="no")) 0 else check(prompt,"string"))
                 }
             }catch{
-                case x: Exception =>println("Invalid Input!    "+prompt)
+                case x: Exception =>println("Invalid Input!    \n"+prompt)
             }
         }
         return 0
