@@ -20,7 +20,7 @@ object convert_dollar_to_riel{
             result+=s"${dominations(i)} Riel: ${((riel/dominations(i)).toInt).toString} ${if((riel/dominations(i)).toInt>1)"papers"else "paper"}    "
             riel=riel%dominations(i)
         }
-        return s"Converted:    $result"
+        return s"Converted:    $result "
     }
     def main(args:Array[String]){
         val dollars=check("Please enter the amount of money in dollars:")
