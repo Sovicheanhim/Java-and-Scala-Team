@@ -3,13 +3,11 @@ import scala.io.StdIn
 object ticket_number{
     def check(prompt:String):Int={
         println(prompt)
-        while(true){
-            try{
-                val input=StdIn.readInt()
-                return if(input>100000 && input<1000000) input else check(prompt)
-            }catch{
-                case x: Exception =>println("Invalid Input!    \n"+prompt)
-            }
+        try{
+            val input=StdIn.readInt()
+            return if(input>100000 && input<1000000) input else check(prompt)
+        }catch{
+            case x: Exception =>return check(prompt)
         }
         return 0
     }

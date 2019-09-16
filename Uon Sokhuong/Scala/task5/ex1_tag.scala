@@ -3,13 +3,11 @@ import scala.math
 object tag{
     def check(prompt:String):Int={
         println(prompt)
-        while(true){
-            try{
-                val input=StdIn.readInt()
-                return if(input>=1 && input<=100) input else check(prompt)
-            }catch{
-                case x: Exception =>println("Invalid Input!    \n"+prompt)
-            }
+        try{
+            val input=StdIn.readInt()
+            return if(input>=1 && input<=100) input else check(prompt)
+        }catch{
+            case x: Exception => return check(prompt)
         }
         return 0
     }
