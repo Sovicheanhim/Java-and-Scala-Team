@@ -7,18 +7,22 @@ object EX01_Kangaroo {
     println("Enter the first kangaroo's location and speed and the second's respectively : ")
     val input = readLine().split(" ")
     val kangaroo = input.map(_.toInt)
-    var jump = 0
+    var jumps = 0
     breakable{
       while(true){
         kangaroo(0) += kangaroo(1)
         kangaroo(2) += kangaroo(3)
-        jump += 1
+        jumps += 1
+//        println(kangaroo(0), kangaroo(2))
         if(kangaroo(0) == kangaroo(2)){
-          println(jump)
+          println(jumps)
+          println(kangaroo(0), kangaroo(2))
           println("YES")
           break
         }
-        else if(jump < 0) {
+        else if(jumps < 0 || kangaroo(0) > 100000000 || kangaroo(2) > 100000000) {
+          println(kangaroo(0), kangaroo(2))
+          println(jumps)
           println("NO")
           break
         }
