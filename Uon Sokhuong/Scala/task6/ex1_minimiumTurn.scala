@@ -3,13 +3,11 @@ import scala.io.StdIn
 object pages{
     def check(prompt:String,totalPages:Int= 0):Int={
         println(prompt)
-        while(true){
-            try{
-                val input=StdIn.readInt()
-                return if((totalPages== 0 && 1<=input && input<=math.pow(10,5)) || (totalPages!= 0 && 1<=input && input<=totalPages) ) input else check(prompt)
-            }catch{
-                case x: Exception =>println(prompt)
-            }
+        try{
+            val input=StdIn.readInt()
+            return if((totalPages== 0 && 1<=input && input<=math.pow(10,5)) || (totalPages!= 0 && 1<=input && input<=totalPages) ) input else check(prompt)
+        }catch{
+            case x: Exception =>return check(prompt)
         }
         return 0
     }
