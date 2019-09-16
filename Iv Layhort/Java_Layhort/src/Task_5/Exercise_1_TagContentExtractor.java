@@ -1,8 +1,8 @@
-package Task_4;
+package Task_5;
 
 import java.util.regex.*;
 import java.util.*;
-public class Exercise_2_TagContentExtractor {
+public class Exercise_1_TagContentExtractor {
     public static void main(String[] args) {
         Pattern pattern = Pattern.compile("<([^>]+)>([^<]+)</\\1>");
         Scanner input = new Scanner(System.in);
