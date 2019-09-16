@@ -14,12 +14,13 @@ object convert_dollar_to_riel{
     def convert(dollars:Float):String={
         var riel=dollars*4000
         val dominations=Array[Int](2000,1000,500,100)
-        var result=0
+        var result=""
         for(i<-0 to 3){
-            result=result+riel/dominations(i)
+
+            result+=s"${dominations(i)} Riel: ${((riel/dominations(i)).toInt).toString} ${if((riel/dominations(i)).toInt>1)"papers"else "paper"}    "
             riel=riel%dominations(i)
         }
-        return s"Output    $result"
+        return s"Converted:    $result"
     }
     def main(args:Array[String]){
         val dollars=check("Please enter the amount of money in dollars:")
