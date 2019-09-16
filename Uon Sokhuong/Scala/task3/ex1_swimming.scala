@@ -3,13 +3,11 @@ import scala.io.StdIn
 object swimming{
     def check(prompt:String):Float={
         println(prompt)
-        while(true){
-            try{
-                val input=StdIn.readFloat()
-                return if(input>0) input else check(prompt)
-            }catch{
-                case x: Exception =>println("Invalid Input!    \n"+prompt)
-            }
+        try{
+            val input=StdIn.readFloat()
+            return if(input>0) input else check(prompt)
+        }catch{
+            case x: Exception => return check(prompt)
         }
         return 0
     }
