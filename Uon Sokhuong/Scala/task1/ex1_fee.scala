@@ -3,17 +3,15 @@ import scala.io.StdIn
 object credit_hour_student{
     def check(prompt:String,wanted_type:String):Int={
         println(prompt)
-        while(true){
-            try{
-                if(wanted_type=="int"){
-                    return StdIn.readInt()
-                }else{
-                    var input=StdIn.readLine().toLowerCase()
-                    return if((input=="y")||(input=="yes")) 65 else(if((input=="n")||(input=="no")) 0 else check(prompt,"string"))
-                }
-            }catch{
-                case x: Exception =>println("Invalid Input!    "+prompt)
+        try{
+            if(wanted_type=="int"){
+                return StdIn.readInt()
+            }else{
+                var input=StdIn.readLine().toLowerCase()
+                return if((input=="y")||(input=="yes")) 65 else(if((input=="n")||(input=="no")) 0 else check(prompt,"string"))
             }
+        }catch{
+            case x: Exception =>return if(wanted_type=="int") check(prompt,"int") else check(prompt,"string")
         }
         return 0
     }
