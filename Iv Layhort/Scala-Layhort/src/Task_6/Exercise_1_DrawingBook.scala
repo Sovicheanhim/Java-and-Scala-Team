@@ -2,11 +2,8 @@ package Task_6
 import scala.io.StdIn._
 object Exercise_1_DrawingBook {
   def main(args: Array[String]): Unit = {
-    println("Enter the number of pages :")
-    val numberOfPages = readInt()
-    println("Enter the destination page :")
-    val destinationPage = readInt()
-
+    println("Enter the number of pages and destination page respectively :")
+    val Array(numberOfPages,destinationPage) = readLine().split(" ").map(_.toInt)
     if(pageTurn(numberOfPages,destinationPage)==0) println("No need to turn") else println(s"You have to turn ${pageTurn(numberOfPages,destinationPage)} time/times")
   }
   def pageTurn(numberOfPages:Int,destinationPage:Int):Int={

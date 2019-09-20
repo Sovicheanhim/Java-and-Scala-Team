@@ -10,8 +10,8 @@ object Exercise_1_ElectronicShop {
     println("Enter the price for each keyboard :")
     for(_ <- 1 to numberOfKeyBoard){arrayOfKeyboard = readLine().split(" ").map(_.toInt)}
     println("Enter the price for each USB :")
-
     for(_ <- 1 to numberOfUSB){arrayOfUSB = readLine().split(" ").map(_.toInt)}
+
     var max:Int = -1
     breakable{
       for(i<- arrayOfKeyboard.indices){
