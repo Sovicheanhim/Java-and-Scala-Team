@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1d833ecd-71b0-4c64-baef-b557d6f980d8" name="Default Changelist" comment="Added scala task 8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iv Layhort/Scala-Layhort/src/Task_2/Exercise_2_FinalPrice.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Iv Layhort/Scala-Layhort/src/Task_2/Exercise_2_FinalPrice.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iv Layhort/Scala-Layhort/src/Task_9/Exercise_1_ElectronicShop.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Iv Layhort/Scala-Layhort/src/Task_9/Exercise_1_ElectronicShop.scala" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,10 +25,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Iv Layhort/Scala-Layhort/src/Task_6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Iv Layhort/Scala-Layhort/src/Task_9" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Iv Layhort/Scala-Layhort/src/Task_6" />
       <recent name="$PROJECT_DIR$/Iv Layhort/Scala-Layhort/src/Task_2" />
       <recent name="$PROJECT_DIR$/Iv Layhort/Scala-Layhort/src" />
       <recent name="$PROJECT_DIR$/Iv Layhort/Java_Layhort/src" />

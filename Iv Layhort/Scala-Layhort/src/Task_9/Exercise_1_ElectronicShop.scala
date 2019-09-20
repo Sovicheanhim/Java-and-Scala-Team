@@ -1,6 +1,7 @@
 package Task_9
 import io.StdIn._
 import util.control.Breaks._
+
 object Exercise_1_ElectronicShop {
   def main(args: Array[String]): Unit = {
     println("Enter the amount of money, number of keyboards and number of USB drive respectively :")
@@ -13,14 +14,8 @@ object Exercise_1_ElectronicShop {
     for(_ <- 1 to numberOfUSB){arrayOfUSB = readLine().split(" ").map(_.toInt)}
 
     var max:Int = -1
-    breakable{
-      for(i<- arrayOfKeyboard.indices){
-        for(j<-arrayOfUSB.indices){
-          if(arrayOfKeyboard(i)+arrayOfUSB(j)<=amountOfMoney) max = arrayOfKeyboard(i)+arrayOfUSB(i)
-          else break()
-        }
-      }
-    }
+      for(i <-arrayOfKeyboard.indices;j <-arrayOfUSB.indices)
+        if(arrayOfKeyboard(i)+arrayOfUSB(j)<=amountOfMoney) max = arrayOfKeyboard(i)+arrayOfUSB(i) else break()
     println(max)
   }
 }
