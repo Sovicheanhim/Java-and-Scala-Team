@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a7f161a-0783-4901-bddc-c840cf585be1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="1d833ecd-71b0-4c64-baef-b557d6f980d8" name="Default Changelist" comment="Added scala task 8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meas Soknoy/Java/Java_Soknoy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Meas Soknoy/Java/Java_Soknoy.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,32 +13,31 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1QmGbJJ2kXyfeov0vMRuGczD6DT" />
+  <component name="ProjectId" id="1Qu09t5DjZZUyaVpdImJVsFLb2i" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="D:/Java" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Iv Layhort/Scala-Layhort/src/Task_9" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Iv Layhort/Scala-Layhort/src/Task_6" />
+      <recent name="$PROJECT_DIR$/Iv Layhort/Scala-Layhort/src/Task_2" />
+      <recent name="$PROJECT_DIR$/Iv Layhort/Scala-Layhort/src" />
+      <recent name="$PROJECT_DIR$/Iv Layhort/Java_Layhort/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Iv Layhort/Java_Layhort/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -55,12 +52,12 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Exercise_1_ComputeNet2" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Task_4.Exercise_1_ComputeNet2" />
-      <module name="Scala-Layhort" />
+    <configuration name="Exercise_1_AngryProfessor" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Task_8.Exercise_1_AngryProfessor" />
+      <module name="Java-and-Scala-Team" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task_4.*" />
+          <option name="PATTERN" value="Task_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,7 +67,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise_1_ComputeNet2" />
+        <item itemvalue="Application.Exercise_1_AngryProfessor" />
       </list>
     </recent_temporary>
   </component>
@@ -79,12 +76,27 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6a7f161a-0783-4901-bddc-c840cf585be1" name="Default Changelist" comment="" />
-      <created>1568368857088</created>
+      <changelist id="1d833ecd-71b0-4c64-baef-b557d6f980d8" name="Default Changelist" comment="" />
+      <created>1568605025203</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568368857088</updated>
+      <updated>1568605025203</updated>
     </task>
+    <task id="LOCAL-00001" summary="Drawing Book">
+      <created>1568643766653</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568643766653</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added scala task 8">
+      <created>1568900995927</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568900995927</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,5 +111,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Drawing Book" />
+    <MESSAGE value="Added scala task 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added scala task 8" />
   </component>
 </project>
