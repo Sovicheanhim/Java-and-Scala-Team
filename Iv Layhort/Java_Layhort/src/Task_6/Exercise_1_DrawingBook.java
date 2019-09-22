@@ -7,7 +7,7 @@ public class Exercise_1_DrawingBook {
         numberOfPages = input.nextInt();
         destinationPage = input.nextInt();
 
-        System.out.println("You have to turn "+pageCount(numberOfPages,destinationPage)+" time/times");
+        System.out.println((pageCount(numberOfPages,destinationPage))==0 ? "No need to turn" : "The minimum turn is"+pageCount(numberOfPages,destinationPage));
     }
 
     private static int pageCount(int numberOfPages,int destinationPage){

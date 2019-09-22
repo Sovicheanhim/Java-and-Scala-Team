@@ -10,15 +10,10 @@ public class Exercise_1_SwimmingPool {
         depth = input.nextDouble();
 
         customerAverageVolume = length*width*depth;
-
         cleaningFee = (customerAverageVolume*75)/fixedAverageVolume;
-
         averagePoolCapacity = customerAverageVolume * gallonsPerCubicFoot;
-
         averageMinutes = averagePoolCapacity/rateOfFlow;
-
         fillingFee = averageMinutes * feePerMinute;
-
         totalFee = cleaningFee + fillingFee;
 
         System.out.println("The Total Service Fee is $"+totalFee);
