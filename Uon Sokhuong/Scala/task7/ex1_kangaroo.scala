@@ -19,22 +19,10 @@ object kangaroo{
         }
         return data
     }
-    def yesNo(axisAndSpeed:Array[Int]):String={
-        val x1_At0=axisAndSpeed(0)
-        val v1=axisAndSpeed(1)
-        val x2_At0=axisAndSpeed(2)
-        val v2=axisAndSpeed(3)
-
-        var x1=x1_At0
-        var x2=x2_At0
-        if(v1<=v2)return "NO"
-        var answer="NO"
-        while(x1<=x2){
-            if(x1==x2 && (x1-x1_At0)/v1==(x2-x2_At0)/v2  ) answer="YES"
-            x1+=v1
-            x2+=v2
-        }
-        return answer
+    
+    def kangaroo(x1: Int, v1: Double, x2: Int, v2: Double): String = {
+        var a=(x2-x1)/(v1-v2)
+        return if(a>0 && a%1==0) "YES" else "NO"
     }
     def main(args:Array[String]){
         val axisAndSpeed=check("Please enter the LOCATION and SPEED of BOTH kangaroo seperated by A SPACE BETWEEN EACH VALUE\nCondition:\n    0 ≤ X1 < X2 ≤ 10000\n    1 ≤ V1 ≤ 10000\n    1 ≤ V2 ≤ 10000")
