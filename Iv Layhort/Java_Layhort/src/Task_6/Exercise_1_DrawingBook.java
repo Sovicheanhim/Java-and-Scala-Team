@@ -3,10 +3,8 @@ public class Exercise_1_DrawingBook {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int numberOfPages,destinationPage;
-        System.out.println("Enter the number of pages :");
+        System.out.println("Enter the number of pages and destination page respectively :");
         numberOfPages = input.nextInt();
-
-        System.out.println("Enter the destination page :");
         destinationPage = input.nextInt();
 
         System.out.println("You have to turn "+pageCount(numberOfPages,destinationPage)+" time/times");

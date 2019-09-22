@@ -5,9 +5,8 @@ public class Exercise_1_ComputeNet2 {
         Scanner input = new Scanner(System.in);
 
         double hourlyPayRate,hoursWorked,grossPay,witholdingTax = 0.00, netPay;
-        System.out.println("Enter the hourly pay rate :");
+        ystem.out.println("Enter the hourly rate and hours worked respectively :");
         hourlyPayRate = input.nextDouble();
-        System.out.println("Enter the hours worked : ");
         hoursWorked = input.nextDouble();
 
         grossPay = hourlyPayRate*hoursWorked;
