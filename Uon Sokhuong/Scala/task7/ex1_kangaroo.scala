@@ -26,6 +26,6 @@ object kangaroo{
     }
     def main(args:Array[String]){
         val axisAndSpeed=check("Please enter the LOCATION and SPEED of BOTH kangaroo seperated by A SPACE BETWEEN EACH VALUE\nCondition:\n    0 ≤ X1 < X2 ≤ 10000\n    1 ≤ V1 ≤ 10000\n    1 ≤ V2 ≤ 10000")
-        println(yesNo(axisAndSpeed))
+        println(kangaroo(axisAndSpeed(0),axisAndSpeed(1),axisAndSpeed(2),axisAndSpeed(3)))
     }
 }
