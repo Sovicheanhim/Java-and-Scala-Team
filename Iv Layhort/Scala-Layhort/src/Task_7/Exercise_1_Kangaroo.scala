@@ -13,12 +13,12 @@ object Exercise_1_Kangaroo {
     var secondKangarooJumpingSteps = readInt()
     breakable{
       while(firstKangarooStartingPoint<=secondKangarooStartingPoint){
+        firstKangarooStartingPoint += firstKangarooJumpingSteps
+        secondKangarooStartingPoint+= secondKangarooJumpingSteps
         if(firstKangarooStartingPoint == secondKangarooStartingPoint){
           println("Yes")
           break()
         }
-        firstKangarooStartingPoint += firstKangarooJumpingSteps
-        secondKangarooStartingPoint+= secondKangarooJumpingSteps
       }
       println("No")
     }

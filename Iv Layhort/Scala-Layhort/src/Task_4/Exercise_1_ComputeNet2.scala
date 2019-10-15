@@ -9,9 +9,7 @@ object Exercise_1_ComputeNet2 {
     val hoursWorked:Double = readDouble()
 
     val grossPay = hourlyRate * hoursWorked
-
     val witholdingTax:Double = if(grossPay<=300.00) grossPay*0.10 else if((grossPay>300)&&(grossPay<=400)) grossPay*0.12 else if((grossPay>400)&&(grossPay<=500)) grossPay*0.15 else grossPay*0.2
-
     val netPay = grossPay - witholdingTax
 
     println(s"The gross pay is : ${grossPay%.2f}")

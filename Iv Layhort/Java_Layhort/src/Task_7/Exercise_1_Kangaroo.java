@@ -14,13 +14,14 @@ public class Exercise_1_Kangaroo {
         System.out.println("Enter the second kangaroo jumping steps :");
         secondKangarooJumpingSteps = input.nextInt();
 
-        while (firstKangarooStartingPoint<=secondKangarooStartingPoint){
+        while (firstKangarooStartingPoint<secondKangarooStartingPoint){
+            firstKangarooStartingPoint+=firstKangarooJumpingSteps;
+            secondKangarooStartingPoint+=secondKangarooJumpingSteps;
+
             if(firstKangarooStartingPoint == secondKangarooStartingPoint){
                 System.out.println("Yes");
-                   System.exit(0);
+                System.exit(0);
             }
-                firstKangarooStartingPoint+=firstKangarooJumpingSteps;
-                secondKangarooStartingPoint+=secondKangarooJumpingSteps;
         }
         System.out.println("No");
     }

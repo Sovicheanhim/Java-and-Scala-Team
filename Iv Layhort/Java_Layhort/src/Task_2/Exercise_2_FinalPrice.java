@@ -4,12 +4,10 @@ public class Exercise_2_FinalPrice {
     public static void main(String[] args) {
         double productPrize, commissionRate, discountRate;
         Scanner input = new Scanner(System.in);
-        System.out.println("Enter the product prize :");
+        System.out.println("Enter the product price, commission rate and discount rate respectively");
         productPrize = input.nextDouble();
-        System.out.println("Enter the commission rate in percentage:");
         commissionRate = input.nextDouble();
-        System.out.println("Enter the discount rate in percentage ");
-        discountRate = input.nextDouble();
+        discountRate=input.nextDouble();
 
         System.out.println("The final prize is "+finalPrize(productPrize,commissionRate,discountRate));
     }
